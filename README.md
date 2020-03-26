@@ -8,7 +8,7 @@ Project 4 from Udacity's [Machine Learning Engineer Nanodegree](https://www.udac
 
 ### Description
 
-Building a custom PyTorch neural network in Amazon SageMaker for binary classification that's separated into two classes; the data looks like two moon shapes when it is displayed and is often referred to as moon data.
+Building a custom PyTorch neural network for binary classification in Amazon SageMaker for data that's separated into two classes; the data looks like two moon shapes when it is displayed and is often referred to as moon data.
 
 - Generated and visualized moon data, saved it as a CSV file, and uploaded to S3
 - Retrieved SageMaker session, role, and default bucket 
